@@ -1,0 +1,20 @@
+{
+  "settings": {
+    "user": "root",
+    "nvm": "v0.10.18"
+  },
+  "ports": {
+    "first": 3000,
+    "increment": 10
+  },
+  "websites": [
+    {
+      "host": "iary.net",
+      "redirects": [
+        "www.iary.net",
+        "iary.de",
+        "www.iary.de"
+      ]
+    }
+  ]
+}
